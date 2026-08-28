@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="./assets/banner.svg" alt="ZeroFact — software systems that run the business, for SMEs and institutions" width="100%">
+<img src="./assets/banner.png" alt="ZeroFact — software systems that run the business, for SMEs and institutions" width="100%">
 
 <br><br>
 
