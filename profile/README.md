@@ -17,8 +17,8 @@ No dashboards nobody opens. No pilots that never ship. Systems people use every 
 
 <br>
 
-[![Website](https://img.shields.io/badge/zerofact.dev-4C8DFF?style=flat-square&logo=googlechrome&logoColor=white)](https://zerofact.dev)
-[![Email](https://img.shields.io/badge/hello@zerofact.dev-0E1620?style=flat-square&logo=maildotru&logoColor=E6EDF3)](mailto:hello@zerofact.dev)
+[![Website](https://img.shields.io/badge/zerofact.org-4C8DFF?style=flat-square&logo=googlechrome&logoColor=white)](https://zerofact.org)
+[![Email](https://img.shields.io/badge/hello@zerofact.org-0E1620?style=flat-square&logo=maildotru&logoColor=E6EDF3)](mailto:hello@zerofact.org)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/company/zerofact)
 [![Book a call](https://img.shields.io/badge/Book%20a%2030--min%20call-C9A227?style=flat-square&logo=googlecalendar&logoColor=0E1620)](https://cal.com/zerofact)
 
@@ -119,7 +119,7 @@ Chosen for a decade of maintainability, not novelty.
 
 Tell us what breaks first and we'll tell you honestly whether it needs software.
 
-[![Start a conversation](https://img.shields.io/badge/Start%20a%20conversation-4C8DFF?style=for-the-badge&logoColor=white)](mailto:hello@zerofact.dev)
+[![Start a conversation](https://img.shields.io/badge/Start%20a%20conversation-4C8DFF?style=for-the-badge&logoColor=white)](mailto:hello@zerofact.org)
 
 <br>
 
